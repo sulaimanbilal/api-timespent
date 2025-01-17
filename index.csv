@@ -1,0 +1,857 @@
+summary,job_cat,timespent
+Weekly MO Digitalisasi SPBU,Data,4.0
+Melakukan explorasi atas md indikator,Development,0.916666667
+Ingest all data,Development,8.0
+Explore testing biglake untuk mencari bug after update,Development,4.0
+belum terdapat message No result found ketika menggunakan search pada connection,Development,5.0
+Meeting review Issue VMS,Technical Support,2.0
+create contract API for new design monitoring video analytics,Development,5.0
+izin persiapan dan perjalanan ke balikpapan,Development,8.0
+present AI product bigbox to pemkot balikpapan,Development,8.0
+meeting solving plan service blink eye bimasakti bigvision,Development,4.0
+Peserta workshop Jamaludin,Development,4.0
+ Juni Create API  Login,Development,4.0
+update detail header detail paket lkpp,Development,3.0
+Heatmaps  belum terdapat maximal digit pada set maximum sehingga text keluar dari modal,Development,8.0
+SQL Editor  pengguna mendapatkan message secara terus menerus pada query generator,Development,8.0
+Analysis next action development BigEnvelope ,Project Manager,5.0
+check flow nifi untuk spbu benzine,Project Manager,5.0
+Revisi monev ecatalog,"Sales, Marketing & Community",8.0
+Rapat Penjelasan BigSpider,Technical Support,8.0
+Penjelasan Juskeb Bigspider ke DEVP,Finance,2.0
+Pengajuan data baru talent pb  eksisting pb tms,Finance,2.0
+Support Meeting Bappenas,Finance,8.0
+Meeting Mitra DBT dg Mnet,"Sales, Marketing & Community",3.0
+Support meeting SLCL,Finance,4.0
+Draft juskeb resource pak kasiono,Finance,4.0
+Rekapitulasi Lemburan Sales AE,Technical Support,6.0
+Discuss Redesign Website,Technical Support,1.0
+Create BAST BAUT BAA  Pemkab Lumajang Pemkot Pasuruan,Technical Support,4.0
+ Meeting solusi VMS UIN,"Sales, Marketing & Community",2.0
+        preparation Redesign Website,Development,0.5
+Restore data pemadanan masterregsosek dan dmpenjaringananakputussekolah,Data,1.0
+Ingest Dokumen dan Peta KRB Peta BahayaKerentanan Kapasitas Risiko dan Jalur Evakuasi Tsunami Skala Desa Program IDRIP,Data,8.0
+Pos Hujan Otomatis Curah Hujan,Data,8.0
+Pekerjaan Selama  Minggu  Juni W,Technical Support,4.0
+other senin  juni   brainstorm jira,Project Manager,2.0
+regsosek raised issue ketika mau buat dashboard apps langsung error,Project Manager,1.0
+pasuruan check ppt bigview untuk present ke lumajang,Project Manager,1.0
+regsosek kamis  juni   stand up,Project Manager,1.0
+polda kaltim follow up ke mas akas terkait keberangkatan ke kalimantan untuk ngawal presentasi bigsocial dan pemasangan hardware bigvision,Project Manager,0.5
+regsosek check issue bigbuilder regsosek,Project Manager,1.0
+regsosek fu pembuatan api loker dan fe loker,Project Manager,1.0
+regsosek fu issue bigbuilder cant upload logo,Project Manager,1.0
+regsosek rabu  juni   discuss use case to crm,Project Manager,1.0
+regsosek jumat  juni  checkpoint dashboard loker,Project Manager,2.0
+other rabu  juni   Workshop Evaluasi Bigbox System Integrator,Project Manager,8.0
+Sync Slave MariaDB,Data,6.0
+Integrasi  Counter on page forgot password on page forgotpassword,Development,8.0
+Upate image assets,Development,8.0
+Check SNA config FE,Development,3.0
+Check SNA library code,Development,3.0
+Indepth Interview v,Design,8.0
+Explore best practice automation,Development,4.0
+Develop new card metode pengadaan khusus,Development,2.0
+Membuat Question SIMA PKPT Perencanaan,Development,8.0
+Membuat Dashboard pendidikan page proporsi sekolah dengan akses fasilitas,Development,8.0
+ Meeting BigBuilder BNPB,Development,3.0
+ Update Penyesuaian SPH Kepulauan Riau,"Sales, Marketing & Community",4.0
+ Discuss data CC KKP,Development,4.0
+        Check Point BigVision Showcase with DMM,Development,0.5
+Meeting Sprint Planning  Juni,Development,3.0
+API Rekomendasi potensi bahaya banjir tingkat Waspada,Data,0.166666667
+API Layer peta,Data,8.0
+API Luas penggunaan lahan antar tahun per wilayah administrasi,Data,10.0
+API Menampilkan grafik faktor berkontribusi banjir wilayah DAS Bengawan Solo,Data,8.0
+FIxing bug  History chatbot hilang all bot,Development,2.0
+Upload image  belum ada validasi format dan ukuran file pada FE,Development,8.0
+IDOR Edit Connection,Development,4.0
+Peseta workshop syamsa,Development,4.0
+Update username tidak boleh pakai spasi dan special character,Development,3.0
+Update flow create portlet custom,Development,4.0
+Template Page Custom HTML  Natural Resources,Development,4.0
+Dokumen Transfer Knowledge Regsosek,Technical Support,8.0
+Persiapan dokumen renewal ISO ,Technical Support,3.0
+Create Materi BIMTEK VMS Polda Kaltim,Technical Support,4.0
+Meeting Semi Finaly Issue VMS Kaltim,Technical Support,2.0
+Testing Web Showcase baru Bigvision,Technical Support,3.0
+Update Pricing Bigvision Pada Data Bigbox,Technical Support,2.0
+Backend troubleshoot error unmarshal JSON API face liveness,Development,3.0
+Slicing Top  Perusahaan,Development,8.0
+Slicing Top  Kota,Development,8.0
+QA Functionality Apps Pemadanan,Development,8.0
+Update pkwt pb mnet,"Sales, Marketing & Community",1.0
+Draft Koordinasi  FU Juskeb Posindo  BPKP,Finance,4.0
+Koordinasi Pemindahan Server,Finance,2.0
+checkpoint progress biglake development,Project Manager,5.0
+Checkpoint Biglake development,Project Manager,5.0
+regsosek cek progress pembuatan video,Project Manager,1.0
+other jumat  juni   monthly report aepm,Project Manager,2.0
+polda kaltim follow up real jadwal pemasangan hardware  transfer knowledge serta apakah PM harus join juga atau tidak,Project Manager,1.0
+other send user manual bigenvelope interopt ke grup,Project Manager,0.25
+other selasa  juni   discuss ppt delivery aepm with mas budi,Project Manager,2.0
+regsosek kirim screenshot dashboard loker ke mas rizki,Project Manager,0.25
+regsosek eskalasi issue bigbuilder,Project Manager,1.0
+regsosek rabu  juni   discuss action plan solving bigbuilder,Project Manager,2.0
+corcomm discuss with corcommdit terkait hasil va dan action plan gap data,Project Manager,1.0
+regsosek revisi laporan transfer knowledge,Project Manager,1.0
+mentawai cek jira input task andreas ke jira,Project Manager,2.0
+Create API metode pengadaan khusus,Development,1.0
+Membuat Question Tingkat pengangguran terbuka berdasarkan jenis kelamin,Development,8.0
+Creating User Journey,Design,8.0
+slicing modal add member superadmin,Development,8.0
+Early Pentest Report Modul Bigscience,Technical Support,2.0
+Create materi Bigvision Product Overview Ultimate,Technical Support,2.0
+Melakukan Testing website Dashboard Bigvision dan mencari bug,Technical Support,4.0
+meeting redesign web video analytics,Development,3.0
+meeting  deployment websocket executive monitoring bigvision,Development,8.0
+development crowd detection with new library golang bigvision,Development,4.0
+Meeting executive summary cctv,Development,3.0
+interaction component deactivate user management,Development,6.0
+SQL Builder  Terjadi error pada saat melakukan search di modal view SQL Builder FE,Development,8.0
+Improper CSRF Token Implementation,Development,8.0
+update bigbuilder  ip whitelist bigenvelope inaproc lkpp,Development,2.0
+Disable satker when filter bumn clicked Lkpp,Development,2.0
+Restart NodeManagers on YARN service,Development,5.0
+Update url Notification Service and host,Development,4.0
+implement filter notification host,Development,8.0
+Template Page Custom HTML  Social Media Analytics Dashboard,Development,4.0
+Page Editor  terdapat portlet custom pada page editor seharusnya jangan dulu menampilkan portlet custom,Development,2.0
+Slicing sidebar admin,Development,3.0
+Discuss Flow Delivery project BPKP dan BNPB,Project Manager,4.0
+Pengecekan data user stakeholder BPHMIGAS di dashboard pertamina,Project Manager,8.0
+Pertamina Weekly Review Scrum Meeting,Project Manager,4.0
+Meeting Campaign  CRM pembuatan list feedback dari customer Pembuatan konten,"Sales, Marketing & Community",11.0
+Diskusi  Koordinasi WAD BSP,Finance,3.0
+Koordinasi Juskeb BigSpider dg PMA,"Sales, Marketing & Community",3.0
+Koordinasi kendala rapat penjelasa bigspider,Finance,2.0
+Meeting Business Understanding Validasi Kriteria Churn Rate  Segmentasi CLV serta Data Understading untuk Data Enrichment,Technical Support,4.0
+Pengenalan tim GTM BigBox dgn Pak Arikur,Technical Support,4.0
+Rekap Lemburan tim Sales,Technical Support,4.0
+ Meeting Bigbox X Infomedia SMG,"Sales, Marketing & Community",3.0
+ Meeting Pemkot Pasuruan,"Sales, Marketing & Community",2.0
+ Meeting Pemkab nganjuk,"Sales, Marketing & Community",2.0
+ Meeting user need Pemkot Samarinda,"Sales, Marketing & Community",8.0
+ Weekly meeting Regional TR,"Sales, Marketing & Community",8.0
+        Preparation Presenting Rebranding AI DTP,Development,0.5
+Integrasi Status Bekerja,Development,8.0
+Slicing Program Bantuan,Development,8.0
+QA Functionality BigBuilder,Development,8.0
+API Widget Total Provinsi KabKota dan Kecamatan berpotensi Banjir,Data,8.0
+Error BE Chatbot,Development,8.0
+regsosek jira check jira regsosek input detailed task support launch produk,Project Manager,8.0
+pasuruan rabu  juni   discuss persiapan paparan bigview ke lumajang,Project Manager,2.0
+polda kaltim konfirmasi keyword bigsocial polda add to bigspider kalo belom ada yang belum masuk,Project Manager,1.0
+regsosek senin  juni   stand up regsosek,Project Manager,1.0
+regsosek screen record aplikasi padanan,Project Manager,1.0
+regsosek input jira task additional regsosek dashboard loker,Project Manager,2.0
+polda kaltim discuss ocr with mas adit dan mas yog,Project Manager,1.0
+regsosek minta ke skala data dummy yg di deliver sebelum project untuk padanan,Project Manager,0.5
+corcomm create  vm persis sama kayak  atau ,Project Manager,2.0
+corcomm weekly gap data,Project Manager,6.0
+Report Monthly Bapenda Jateng Mei ,Technical Support,8.0
+testing background ops page,Development,8.0
+Secondary Research v,Design,8.0
+API  Unverified email on page signup,Development,8.0
+initialization create iceberg,Development,8.0
+Membuat Dashboard pendidikan page partisipasi pembelajaran terorganisir satu tahun sebelum usia sekolah dasar,Development,8.0
+Membuat Question usia muda  tahun yang sedang tidak sekolah bekerja  mengikuti pelatihan,Development,8.0
+Membuat Dashboard pendidikan page presentase guru yang memenuhi kualifikasi sesuai dengan standar nasional menurut jenjang pendidikan,Development,8.0
+Weekly meeting DMM,"Sales, Marketing & Community",8.0
+Prep report bahan weekly meeting dengan DMM,"Sales, Marketing & Community",8.0
+ KAK BKPM dan Docs Citilink,Development,4.0
+Riset Unique Selling Point Website BigBox,Technical Support,3.0
+ Meeting Bigview UMY Jogja,"Sales, Marketing & Community",1.0
+ Meeting LOP TR ,"Sales, Marketing & Community",6.0
+API Menampilkan Data spasial peta,Data,8.0
+interaction component active user management,Development,5.0
+slicing active user management content,Development,8.0
+Benchmark BigEnvelope with Bombardier,Development,8.0
+Create video guide VMS Facepad,Technical Support,4.0
+Riset harga API,Technical Support,8.0
+Testing web VMS Polda Kaltim,Technical Support,4.0
+present AI product bigbox to diskominfo samarinda,Development,8.0
+Report Monthly KPPPA Mei ,Data,8.0
+QA Custom Dashboard Loker,Development,8.0
+Meeting Weekly Sales  Delivery all talent,Finance,3.0
+Support Agenda ITDRI,Finance,2.0
+Update fin  hc jun,Finance,1.0
+FU PBTKP BSP dg para Chapter,Finance,2.0
+Pengembalian Talent Chapter,Finance,2.0
+Create PRD Development BigEnvelope ,Project Manager,8.0
+corcomm rabu  juni   discuss with kang yosep terkait progress data mental dan validasi data,Project Manager,2.0
+other rabu  juni   transfer knowledge ke ae baru,Project Manager,1.0
+corcomm check mesin image to text yang diduga mati karena performansi menurun,Project Manager,1.0
+other check jira sheet jira lama yang dari mas fikram,Project Manager,2.0
+mentawai mapping team delivery mentawai,Project Manager,8.0
+polda kaltim pelajarin ppt vms bigvision,Project Manager,2.0
+polda kaltim selasa  juni   discuss vms with tim bigvision,Project Manager,1.0
+regsosek solving issue all node mati di regsosek,Project Manager,8.0
+regsosek kamis  juni   kunjungan bappenas itdri,Project Manager,8.0
+regsosek fu integrasi python loker to bigspider,Project Manager,1.0
+corcomm check readiness sna issue on bigsocial,Project Manager,1.0
+regsosek screenshot aplikasi padanan,Project Manager,3.0
+bnpb input task habib ke jira,Project Manager,1.0
+Create API jenis  metode pengadaan swakelola,Development,2.0
+Get Data Pertamina Pasti PAS Monthly,Data,4.0
+Membuat Question proporsi kredit umkm terhadap total kredit,Development,8.0
+Membuat Dashboard pendidikan page angka partisipasi murni APM dan angka partisipasi kasar APKMembuat Dashboard pendidikan page partisipasi kasar perguruan tinggi,Development,8.0
+Virtual Table  ketika pengguna baru membuat virtual table menjadi harus melakukan refresh  untuk melihat list vitual table,Development,8.0
+Develop new card jenis  metode pengadaan penyedia,Development,2.0
+Pembahasan Digitalisasi Kalimantan by Afi,Technical Support,2.0
+Mengumpulkan Rekaman Video Anomaly Activities,Technical Support,4.0
+Sanity testing for release bigbuilder,Development,8.0
+Update big envelope stg,Development,2.0
+Implementasi schema baru load data,Development,4.0
+update message move pada datalake ketika gagal melakukan move to datatables,Development,8.0
+Menambahkan input search di dalam select filter page editor,Development,8.0
+Create User Stories and Acceptance Criteria for BigEnvelope ,Project Manager,8.0
+ Workshop  pembuatan Testimoni  pengisian monev ecatalog,"Sales, Marketing & Community",12.0
+Support Absen TKP,Finance,1.0
+Rekon PB Mnet,Finance,1.0
+Support Meeting SLCL,Finance,3.0
+Support Meeting PB Mnet,"Sales, Marketing & Community",8.0
+ Input Order NCX Polda Riau Daratan,"Sales, Marketing & Community",4.0
+ Input Order NCX Polda Kalimantan Timur,"Sales, Marketing & Community",2.0
+ Meeting OBL BNPB,Development,4.0
+ Meeting BigScience Pak Sigit,Development,2.0
+ BigVision   set height to screen height,Development,0.5
+API Program Bantuan,Data,8.0
+Slicing Range salary,Development,8.0
+Slicing Demografi Berdasarkan Kategori Umur,Development,8.0
+Fixing bug  Error saat save bot,Development,8.0
+corcomm create guideline cara menggunakan vpn  window version,Project Manager,8.0
+regsosek rabu  juni   stand up support launch produk,Project Manager,1.0
+regsosek request storage minio,Project Manager,1.0
+lumajang check kesiapan platform bigview,Project Manager,1.0
+other jumat  juni   discuss integrasi data melalui platform Denodo DiVi,Project Manager,2.0
+other selasa  juni   coursera modul ,Project Manager,2.0
+regsosek hitung progress scurve support project launch regsosek,Project Manager,1.0
+pasuruan hitung progress scurve,Project Manager,1.0
+regsosek cek dashboard loker page editor,Project Manager,1.0
+corcomm rabu  juni   discuss checking bigsocial sna issue,Project Manager,2.0
+regsosek create lld untuk flow py script loker ke bigspider,Project Manager,3.0
+regsosek input jira rebuild dashboard fe only,Project Manager,3.0
+regsosek follow up action plan untuk issue code yang hilang dan trace penyebabnya,Project Manager,1.0
+polda kaltim rabu  juni   Prepare Giat Bimtek Sosial Media Polda Kaltim,Project Manager,1.0
+polda kaltim jumat  juni   paparan singkat bigsocial,Project Manager,3.0
+mentawai selasa  juni   discuss delivery mentawai,Project Manager,2.0
+regsosek selasa  juni   stand up,Project Manager,2.0
+regsosek mapping spek infra,Project Manager,2.0
+regsosek laporan transfer knowledge,Project Manager,6.0
+other input jira sales,Project Manager,2.0
+Weekly Report Data Analytics Posindo,Technical Support,8.0
+Query Prediksi Jumlah Siswa  Penduduk Usia Sekolah di Jawa Barat,Data,8.0
+Modelling Jumlah Lab Sekolah,Data,12.0
+Security enhancement  Medium  Clickjacking,Development,8.0
+Check Rtsp cctv madiun,Technical Support,1.0
+Meeting dengan IAS membahas sertifikasi ISO,Technical Support,2.0
+Meeting Pembahasan renewal ISO,Technical Support,2.0
+Custom Page  pointer tidak stabil dan sering terjadi delay ketika mengetik,Development,4.0
+ Juni Implementasi penyesuaian design,Development,8.0
+Slicing penyesuaian design create common sql rest api,Development,8.0
+Discuss alignment domain inaproc,Development,1.0
+Handle Login Invalid,Development,2.0
+integrasi api filter host,Development,4.0
+Daily Bigone Development,Project Manager,4.0
+Kordinasi budget  Pencarian Vendor,"Sales, Marketing & Community",10.0
+Pembuatan ads budget plan  Pembuatan content plan,"Sales, Marketing & Community",8.0
+Meeting Sosialisasi CA,Finance,2.0
+Collect Reimburse tim Sales,Technical Support,4.0
+ Meeting Delivery Lumajang,"Sales, Marketing & Community",2.0
+ Meeting LOP Witel Solo,"Sales, Marketing & Community",5.0
+ Meeting PHRI Sleman,"Sales, Marketing & Community",2.0
+ Meeting Penyesuaian Kebutuhan VMS Polda Kalimantan Timur,"Sales, Marketing & Community",4.0
+ Meeting Delivery Polda Riau Daratan,"Sales, Marketing & Community",8.0
+ Sales  delivery review,Development,8.0
+Create Domain and pointing to newest app,Development,4.0
+API Rekomendasi potensibahaya banjir tingkat Awas,Data,1.0
+Pekerjaan Scrum  W Juni ,Technical Support,4.0
+other selasa  juni   discuss jira with daffa,Project Manager,2.0
+corcomm capacity planning and discuss improvement image to text with mas fikram,Project Manager,1.0
+other minta bunda ismi sama mas gemps isi form untuk jira,Project Manager,0.25
+corcomm jumat  juni   follow up hasil slicing fitur search  pagination dan hide faceboook demographic,Project Manager,1.0
+corcomm rabu  juni   discuss terkait action plan untuk gap data,Project Manager,2.0
+polda kaltim rekap credential access bigsocial dan vms bigvision,Project Manager,1.0
+regsosek solving issue bigbuilder bug when create dashboard apps,Project Manager,1.0
+polda kaltim discuss with bigvision terkait tambahan add on ktp scanner,Project Manager,1.0
+polda kaltim kamis  juni   discuss tambahan ocr,Project Manager,1.0
+Monitoring Satgas RAFI Dashboard Pertamina,Data,12.0
+Slicing Search topic feature on page topics,Development,8.0
+Slicing  Counter on page forgot password on page forgotpassword,Development,8.0
+Testing fixing pentesting,Development,8.0
+slicing modal rename group,Development,2.0
+slicing header  table,Development,8.0
+create monitoring document,Development,2.0
+Explore testing bigbuilder,Development,3.0
+User Journey Figma Design,Design,8.0
+Membuat Question PDB perkapita atas dasar harga berlaku menurut provinsi,Development,8.0
+Endpoint Riwayat Jabatan Detail,Development,4.0
+Design Executive View BigVision,Design,8.0
+Meeting  diskusi keperluan website untuk rebranding Review konten,"Sales, Marketing & Community",8.0
+Meeting Internal Timeline Rebranding Bigbox AI Website,Technical Support,3.0
+Sosialisasi Report Sales,Technical Support,1.0
+ Discuss LOP Ikha,Development,3.0
+ Meeting solusi dasboard stunting,"Sales, Marketing & Community",5.0
+ Seminar Vokasi UNS Solo,"Sales, Marketing & Community",4.0
+Checkpoin dengan DMM terkait Workshop BUMN,Technical Support,1.0
+ Discuss dashboard BNPB,Development,4.0
+ Meeting Pemkab Kulonprogo,"Sales, Marketing & Community",2.0
+Collect Sales  Delivery Report,Technical Support,8.0
+Chatbot yang bisa memberikan link cataloh service saat user bertanya,Development,1.0
+slicing deactivate user managemen,Development,7.0
+Peseta workshop rinaldy,Development,4.0
+SQL Editor  validasi query menjadi invalid ketika terdapat space enter dan tab,Development,8.0
+Portlet Custom  Visual data transform filter tidak muncul pada portlet custom,Development,8.0
+Smoke testing sprint ,Development,8.0
+Create EKYC Journey,Technical Support,3.0
+Meeting Technology for delivery executive summary cctv,Development,4.0
+add new connection option for postgresql,Development,8.0
+QA Functionality BigSearch,Development,8.0
+ Juni Penyesuaian design list connection,Design,1.0
+FU vendor kebutuhan bigspider,Finance,2.0
+Koordinasi Data Sales BSP,"Sales, Marketing & Community",3.0
+Support Meeting Sales,Finance,4.0
+Drafting PR Bigspider,Finance,2.0
+Slicing Demografi Berdasarkan Jenis Kelamin,Development,8.0
+Integrasi Demografi Berdasarkan Kategori Umur,Development,8.0
+Integrasi Top  Kota,Development,8.0
+Integrasi Kualifikasi Pekerjaan,Development,8.0
+Slicing Top  Industri,Development,8.0
+regsosek selasa  juni   stand up  fu pembuatan dm untuk loker pembuatan dashboard cors api bigenv,Project Manager,2.0
+regsosek mapping update spec and storage ke service yang baru,Project Manager,3.0
+mentawai jumat  juni   stand up,Project Manager,1.0
+lumajang cek bigview pariwisata lumajang apakah sudah masuk atau belum data pariwisatanya,Project Manager,0.5
+regsosek input credentials gpu,Project Manager,1.0
+regsosek fu issue bigbuilder error when create  edit dashboard apps,Project Manager,2.0
+Add logic Zend Class model,Development,2.0
+Update color picker,Development,1.0
+API  Create API counter on page forgotpassword,Development,8.0
+Deployment on Production,Development,8.0
+ Membuat report bahan weekly meeting dengan DMM,"Sales, Marketing & Community",8.0
+Design Revision v,Design,8.0
+Membuat Question Proporsi Kontribusi,Development,8.0
+Membuat Question upah rata rata perjam pekerja berdasarkan provinsi,Development,8.0
+Early Pentest Report Modul Bigbuilder dan Bigaction,Technical Support,1.0
+Fixing bug pelaksanaan restore to previous,Development,1.0
+Backend add config timeout envoy proxy,Development,7.0
+meeting testing open camera SDK bimasakti,Development,2.0
+Page Editor  Visual Data Transform Filter tidak muncul pada page editor,Development,8.0
+Meeting VAPT BigEnvelope BNPB,Development,3.0
+Meeting Flow Consume  Publish for Requirement Pusdatin BNPB,Development,2.0
+explore figma bigenvelope ,Development,2.0
+Planning Sprint  Week  Jamal,Development,2.0
+Testing Custom HTML  Social Media Analytic,Development,0.5
+Datasources  terjadi error ketika pengguna memasukan backslash  ,Development,8.0
+Create Test Scenario  Portlet Custom,Development,4.0
+slicing table maps untuk superadmin,Development,8.0
+Sales  Delivery Monthly Review,Project Manager,8.0
+Support  Update Privy BSP,"Sales, Marketing & Community",3.0
+ Meeting Solusi CCTV AI DPU Bina marga,"Sales, Marketing & Community",3.0
+ Meeting Sosial Media Humas Polda Kepulauan Riau,"Sales, Marketing & Community",4.0
+Integrasi Status Pendidikan,Development,8.0
+Integrasi Program Bantuan,Development,8.0
+Scrap From jobstreet,Data,8.0
+API Verifikasi Potensi Bahaya Banjir,Data,3.0
+other ngisi progress delivery ppt,Project Manager,1.0
+regsosek eskalasi issue kodingan hilang di bigbuilder,Project Manager,2.0
+regsosek rabu  juni   discuss briefing slide with ai,Project Manager,0.5
+pasuruan check readiness bigmarket,Project Manager,1.0
+regsosek cari spek gpu,Project Manager,1.0
+Modelling Prediksi Pertumbuhan Pendidikan Kualifikasi Guru di Jawa Barat,Data,8.0
+Weekly Bug Fixing Dashboard Digitalisasi SPBU,Data,4.0
+Fixing Issue data benzine tidak naik dasboard,Data,3.0
+update schema create iceberg,Development,4.0
+Meeting koordinasi arsitektur BPKP,Development,5.0
+Membuat Dashboard pendidikan page partisipasi pendidikan dan pelatihan,Development,8.0
+Workshop  pembuatan Tagline serta Testimoni untuk rebranding,"Sales, Marketing & Community",12.0
+Crawling URL untuk Jawaban Chatbot,Data,10.0
+ Koordinasi Visit Kalimantan Tengah,"Sales, Marketing & Community",4.0
+Standby Workshop BUMN,Technical Support,8.0
+ Meeting bigview lumajang,"Sales, Marketing & Community",3.0
+ Sales  Delivery Monthly Review,"Sales, Marketing & Community",8.0
+ Meeting User need Pemkot Balikpapan,"Sales, Marketing & Community",8.0
+Preparing Event Workshop BUMN,Technical Support,8.0
+ Contac Us   Integration API,Development,2.0
+API Tabel hasil prediksi bencana,Data,3.0
+Merubah wording List Tamplate Nota dinas,Development,1.0
+Modelling Kepemilikan Lab,Data,12.0
+update handling tipe portlet baru portlet custom,Development,3.0
+Portlet Custom  visual menjadi menghilang ketika pengguna melakukan run terlebih dahulu,Development,8.0
+Pages  custom page pada tampilan list tidak menampilkan icon nya,Development,4.0
+Create Test Script  Connection,Development,4.0
+Revisi Dokumen Juklak Juknis,Technical Support,8.0
+Meeting VMS Kaltim,Technical Support,2.0
+Create Userguide VMS Polda Kaltim,Technical Support,3.0
+Membuat video Dokumentasi Facepad,Technical Support,4.0
+Meeting Pembahasan KAI,Technical Support,2.0
+QA Functionality BigSpider,Development,8.0
+Support OKR BSP,Finance,3.0
+Support Booth BigBox,"Sales, Marketing & Community",2.0
+Integrasi Top  Wilayah,Development,8.0
+other sabtu  juni   coursera final test modul ,Project Manager,3.0
+regsosek check script dari tim CRM untuk video,Project Manager,1.0
+lumajang create akun bigsocial lumajang untuk kominfo,Project Manager,1.0
+other check jira dyla  invite anak anak ke jira yg di peruntukkan,Project Manager,2.0
+regsosek check prepare demo ic bigvision,Project Manager,1.0
+regsosek cek dashboard loker untuk persiapan demo on bigbuilder,Project Manager,1.0
+polda kaltim eskalasi ke mas akas terkait siapa yang akan berangkat fix nya,Project Manager,2.0
+corcomm rabu  juni   Troubleshot issue emotion analytics dan SNA,Project Manager,2.0
+regsosek kamis  juni   discuss report ke pintarin,Project Manager,2.0
+Add logic common sql,Development,2.0
+creating Entity database,Development,2.0
+Discuss analisa page Lkpp,Development,3.0
+Report On Schedule KPU  Juni   Juni,Data,4.0
+API  Unregistered email on page forgotpassword,Development,4.0
+QA Search topic feature on page topics,Development,8.0
+Endpoint Pegawai Singkat,Development,4.0
+Membuat Question Anak Usia  tahun yang bekerja berdasarkan provinsi,Development,8.0
+Membuat Question SIMA PKPT Pelaksanaan,Development,8.0
+BNPB Diskusi Penyiapan Data ESDM PUSDATIN,Data,2.0
+belum terdapat halaman new user saat membuka connection,Development,5.0
+Designing User Journey,Design,8.0
+Meeting LPR for EV and non EV,Technical Support,2.0
+meeting laporan pasca present kalimantan  persiapan pulang,Development,8.0
+Collecting video Anomaly,Technical Support,5.0
+Create API jenis dan metode penyedia,Development,2.0
+Explore tracking map menggunakan Leaflet,Development,8.0
+Transfer Knowledge Bigone development,Project Manager,8.0
+Transfer Knowledge BigEnvelope Regsosek,Project Manager,8.0
+Meeting pembuatan storyline  pembuatan konten plan,"Sales, Marketing & Community",10.0
+ Meeting  diskusi project rebranding  review content video regsosek  kordinasi budget marketing untuk video marketing,"Sales, Marketing & Community",11.0
+Koordinasi ID LOP,Technical Support,8.0
+ Pembuatan proposal teknis Magetan,"Sales, Marketing & Community",2.0
+ Meeting solusi PHRI Bigbox X Finnet,"Sales, Marketing & Community",4.0
+ Prepare Delivery Polda Kalimantan TImur BigSocial,"Sales, Marketing & Community",4.0
+ Discuss Kontrak Pemkab Mentawai,"Sales, Marketing & Community",4.0
+ Prepare KKP Bandung,Development,2.0
+Slicing Top  Wilayah,Development,8.0
+other senin  juni   coursera bab  modul ,Project Manager,3.0
+regsosek check hasil bigbuilder mas abas,Project Manager,2.0
+regsosek jumat  juni   solving issue cors bigbuilderbigenvelope yang masih blm solved,Project Manager,2.0
+lumajang hitung progress scurve,Project Manager,1.0
+corcomm kamis  juni   kawal deployment after fixing sna issue,Project Manager,2.0
+regsosek selasa  juni   discuss persiapan demo dashboard loker,Project Manager,2.0
+regsosek rabu  juni  discuss with ae terkait scope project,Project Manager,2.0
+pasuruan selasa  juni   discuss delivery bigview dan bigmarket,Project Manager,1.0
+regsosek rekap credentials access infra baru kalau sudah ada  cara ssh tunneling,Project Manager,1.0
+mentawai cek figma,Project Manager,1.0
+mentawai kamis  juni   stand up,Project Manager,1.0
+corcomm jumat  juni  discuss update crawler instagram,Project Manager,1.0
+regsosek japri ke grup bahwa all platform sudah selesai di install dan butuh vpn serta ssl,Project Manager,1.0
+Update Dokumen Credential Update BNPB,Technical Support,3.0
+testing page datalake,Development,8.0
+Design Exploration Executive Dashboard,Design,8.0
+Sprint planning dan review bigbuilder,Development,2.0
+Meeting hasil pentest bigsearch,Development,2.0
+Meeting planning bigbuilder,Development,2.0
+explore nifi ingest data from api,Development,8.0
+Membuat Dashboard pendidikan page angka melek aksara,Development,8.0
+Kordinasi pengisian feedback DPS,"Sales, Marketing & Community",8.0
+Kordinasi pembuatan video marketing dengan tim produk  Pembuatan konsep video,"Sales, Marketing & Community",10.0
+Create ppt aplikasi pemadanan regsosek,Technical Support,2.0
+ Meeting RSUP Soeradji,"Sales, Marketing & Community",2.0
+ Meeting Pengadaan UMY,"Sales, Marketing & Community",2.0
+ Meeting Implementasi Bigview UMY,"Sales, Marketing & Community",2.0
+ Contact Us   add form validation,Development,4.0
+explore and research sidemenu,Development,8.0
+Ingest from Geoportal Data Bencana,Data,8.0
+Modelling Kondisi Toilet Siswa,Data,8.0
+Stored XSS in Edit API,Development,4.0
+Peserta workshop Dhyla,Design,4.0
+Testing Custom HTML  Natural,Development,0.5
+Smoke Testing Bigbuilder Version ,Development,6.0
+Merapihkan Dokumen Proposal  Analisa CCTV menggunakan Artificial Intelligence,Technical Support,4.0
+Mencari Video Indonesia Anomaly Activities,Technical Support,4.0
+Backend add go routine to func savelog,Development,8.0
+Backend fixing query date range with UTC zone jakarta,Development,5.0
+QA Dashboard Lapangan Pekerjaan,Development,8.0
+Add gitlabci for auto testing,Development,3.0
+Fu list produk untuk juskeb posindo,Finance,2.0
+fu apraisal pb juni ,Finance,2.0
+Integrasi Klasifikasi Perusahaan,Development,8.0
+other selasa  juni   discuss integrasi Data Virtualization Denodo untuk PDP,Project Manager,2.0
+regsosek kamis  juni   discuss issue cors bigbuilder,Project Manager,2.0
+regsosek solving issue bigbuilder tabel di ss belum update,Project Manager,2.0
+regsosek cek  evaluasi script video crm,Project Manager,2.0
+other bikin dod untuk pm,Project Manager,3.0
+regsosek cek data loker db on postgre,Project Manager,1.0
+polda kaltim selasa  juni   discuss persiapan keberangkatan ke kalimantan timur,Project Manager,1.0
+lumajang koordinasi nomer surat ke viana,Project Manager,0.25
+regsosek solving bigbuilder ketika bikin pie chart ngga bisa,Project Manager,1.0
+Create first try card jenis pengadaaan penyedia perencanaan,Development,4.0
+Integrasi  Counter on page signup,Development,8.0
+QA SNA on dashboard BigSocial,Development,1.0
+Design Exploration v,Design,8.0
+Membuat Dashboard pendidikan page angka anak tidak sekolah,Development,8.0
+Membuat Dashboard pendidikan page remaja dan dewasa dengan keterampilan teknologi informasi dan komputer TIK,Development,8.0
+add flagging timespant,Development,12.0
+Sprint review bigbuilder,Development,3.0
+Peserta workshop Hazrul,Development,8.0
+Meeting update Dokumen Produk BigVision,Technical Support,2.0
+Membuat Dokumen VMS Kaltim,Technical Support,2.0
+explore new library from golang video analytics,Development,6.0
+Meeting for enhance showcase,Development,2.0
+slicing modal form addedit user bigbuilder,Development,2.0
+Mapping parser tidak menunjukkan status secara akurat,Development,8.0
+Transfer Knowledge BigOne,Development,8.0
+Discuss Penggunaan BigScience di Project,Project Manager,3.0
+Pengecekan data WS SHIPMENT Dashboard pertamina,Project Manager,8.0
+Meeting Troubleshoting Issue Emotion Analytics dan SNA di BigSocial,Technical Support,2.0
+Revisi ppt produk knowledge BigBox,Technical Support,4.0
+ Meeting Bigvision X KIK,"Sales, Marketing & Community",2.0
+ Meeting Biro Kesra Prov Jateng,"Sales, Marketing & Community",6.0
+ Meeting Probis KEK Denpasar,"Sales, Marketing & Community",3.0
+ Meeting Proposal Teknis Nasmoco,"Sales, Marketing & Community",6.0
+ Meeting User need Kabupaten Mentawai,"Sales, Marketing & Community",8.0
+ Discuss Proposal Pemkot Balikpapan,"Sales, Marketing & Community",4.0
+Integrasi Demografi Berdasarkan Jenis Kelamin,Development,8.0
+API Demografi Berdasarkan Kategori Umur,Data,8.0
+Slicing Status Pendidikan,Development,8.0
+Create BE python custom delimiter,Data,8.0
+regsosek selasa  juni   stand up regsosek deliverables support launching,Project Manager,1.0
+regsosek hitung progress scurve,Project Manager,1.0
+other senin  juni   coursera modul ,Project Manager,3.0
+bpkp check user manual dan uat bigquery,Project Manager,2.0
+other  transfer knowledge with ae baru,Project Manager,2.0
+polda kaltim rekap reimburse kaltim,Project Manager,3.0
+regsosek qa apps pemadan di env baru,Project Manager,2.0
+regsosek reporting instalasi ke cgs,Project Manager,3.0
+POC Prepare account BigSocial for POC,Development,1.0
+Membuat Kumpulan Temuan Security dari Modul Hasil Pentest,Technical Support,3.0
+Workshop serah terima bigone dan bigenvelope day,Development,5.0
+Slicing  Unverified email on page signup,Development,8.0
+Membuat Question Jumlah wisatawan nusantara menurut provinsi asal,Development,8.0
+Endpoint Riwayat Pendidikan,Development,4.0
+Diskusi keperluan rebranding  Diskusi keperluan sertifikasi dengan TCUC,"Sales, Marketing & Community",8.0
+ Meeting solusi TWC,"Sales, Marketing & Community",3.0
+ Meeting Solusi LGBT Sosial Media Pemprov Sumatera Barat,"Sales, Marketing & Community",8.0
+ Update Penyesuaian SPH Pemkab Mentawai,"Sales, Marketing & Community",4.0
+ Discuss prepare BGN  BSSN,Development,6.0
+ Meeting Kospin Jasa Pekalongan,"Sales, Marketing & Community",2.0
+        Meeting Rebranding Website AI,Development,1.0
+deployment to production,Development,3.0
+API Rekomendasi potensi bahaya banjir tingkat Awas,Data,8.0
+Testing Custom React  Social Media Analytics,Development,0.5
+Meeting Opportunity FR Gate masuk,Technical Support,2.0
+QA Functionality BigEnvelope Interopt,Development,8.0
+Support SN Talent BSP ,Finance,1.0
+libur Hari lahir pancasila,Project Manager,8.0
+Slicing Status Bekerja,Development,8.0
+API Demografi Berdasarkan Jenis Kelamin,Data,8.0
+Integrasi Range Salary,Development,8.0
+corcomm weekly check gap data,Project Manager,2.0
+other ngurus jira mas gemp dan bunda ismi,Project Manager,1.0
+regsosek selasa  juni   discuss integrasi data loker scrapping py with bigspider,Project Manager,2.0
+regsosek cek jira regsosek,Project Manager,1.0
+regsosek eskalasi issue driver postgre yang belum terinstall,Project Manager,0.25
+other kamis  juni   discuss with renita terkait product,Project Manager,2.0
+regsosek create PPT aplikasi pemadanan  interopt,Project Manager,2.0
+regsosek rabu  juni   paparan dashboard lowongan kerja,Project Manager,1.0
+corcomm selasa  juni   discuss tambahan media sea today dan penyebab karena mesin,Project Manager,2.0
+regsosek cek jira task deployment all team,Project Manager,1.0
+corcomm senin  juni   discuss security enhancement bigsocial,Project Manager,2.0
+regsosek jumat  juni   discuss with sigma terkait hardening security,Project Manager,2.0
+pasuruan ttd bastbaut,Project Manager,0.5
+Discuss issue flow big envelope BNPB,Development,2.0
+Create API jenis pengadaan penyedia,Development,1.0
+API  Create API counter on page signup,Development,8.0
+add limiter API login bigsocial,Development,4.0
+slicing modal add member admin,Development,8.0
+Develop new card jenis pengadaan penyedia,Development,2.0
+ Prepare Delivery Polda Kalimantan Timur VMS,"Sales, Marketing & Community",2.0
+ Workshop Digitalisasi Pemprov Kalimatan Timur,"Sales, Marketing & Community",8.0
+API API Service Image to text,Data,4.0
+        BigVision  Prepare showcase BigVision,Development,1.0
+Data Extraction WinS TREG  News Data,Development,5.0
+set global state,Development,8.0
+API Rekomendasi potensi bahaya banjir tingkat Siaga,Data,0.166666667
+Modelling Jumlah Kelas Guru dan Siswa,Data,8.0
+SQL Editor  Terjadi masalah ketika menggunakan query generator pada sql editor hasil yang di dapat tidak ditampilkan pada editor,Development,8.0
+Dashboard App  Terjadi error kita pengguna mencoba melakukan update dalam tampilan list,Development,8.0
+Stored XSS in Test API,Development,4.0
+Transfer Knowledge BigEnvelope,Development,8.0
+Create Test Pages  Connection,Development,2.0
+Collecting  dataset Plat Electric,Technical Support,8.0
+Diksusi EKYC terbaru Bigvision,Technical Support,3.0
+Backend update JSON API face liveness,Development,5.0
+QA Functionality BigQuery,Development,8.0
+ Juni Update design Login,Design,4.0
+Try to create setup backend php standalone,Development,3.0
+tambahan item dod pb bsp,Finance,2.0
+Support Meeting Roadmap Product,"Sales, Marketing & Community",4.0
+FU Pemindahan Server,"Sales, Marketing & Community",2.0
+Requirement Gathering Development BigEnvelope ,Project Manager,8.0
+Sprint Planning Bigenvelope ,Project Manager,5.0
+Slicing Klasifikasi Perusahaan,Development,8.0
+regsosek selasa  juni   discuss with tim produk terkait issue bigbuilder,Project Manager,2.0
+lumajang kamis  juni   discuss progress delivery with lumajang,Project Manager,1.0
+regsosek senin  juni   brainstorm pembuatan dashboard bigbuilder,Project Manager,2.0
+regsosek cek bigbuilder loker custom by arifin,Project Manager,1.0
+pasuruan tracking order ncx,Project Manager,0.25
+orther jumat  juni   start chapter  coursera,Project Manager,3.0
+corcomm eskalasi worker timeout untuk mesin nlp,Project Manager,0.5
+regsosek eskalasi issue spark initiate failed di regsosek,Project Manager,1.0
+regsosek eskalasi issue kenapa dr mesin gpu  ga bisa koneksi ke ,Project Manager,0.5
+polda kaltim follow up ke am untuk pemasangan titik vms,Project Manager,0.5
+regsosek check jira regsosek input task mas gemps,Project Manager,1.0
+corcomm solving issue mesin     sentiment yang down dan berakibat ke crawling digital news yang mati,Project Manager,8.0
+Update API  add details on jenis pengadaan,Development,3.0
+Membuat Dashboard pendidikan page penyelesaian pendidikan anak,Development,8.0
+Testing porduct project bnpb,Development,0.5
+Planning Sprint  Week  Fadhyla,Design,4.0
+Checkpoin BigQuery dgn Mas Rinaldy,Technical Support,1.0
+ Meeting Pemprov Jateng,"Sales, Marketing & Community",2.0
+Slicing Status Keluarga,Development,8.0
+polda kaltim edit ppt sesuaikan dengan paket yang diambil oleh polda,Project Manager,3.0
+lumajang ttd bastbaut,Project Manager,0.5
+Slicing  Counter on page signup,Development,8.0
+meeting fixing pentest bigsocial,Development,2.0
+add sample postgis bnpb,Development,3.0
+Membuat Question Laju pertumbuhan PDB pertenaga kerjatingak pertumbuhan PDB rill perorang bekerja pertahun,Development,8.0
+ Workshop  pembuatan Tagline  Testimoni  meeting monev ecatalog,"Sales, Marketing & Community",12.0
+ Meeting Dinas sosial Prov Jateng,"Sales, Marketing & Community",2.0
+ Discuss metadata catalog BPKP,Development,3.0
+Sebagai users saya ingin melakukan search dan shorting berdasarkan last modified dan alphabetical pada virtual table list,Development,4.0
+API Rekomendasi potensibahaya banjir tingkat Siaga,Data,1.0
+Page Editor  Filter date relative belum bisa melakukan unselect,Development,3.0
+IDOR Edit API,Development,4.0
+Peseta workshop Gia,Development,4.0
+POC Input keyword and topic,Development,1.0
+Meeting Implementasi EKYC,Technical Support,3.0
+other senin  juni   create project charter peer  peer assignment,Project Manager,3.0
+other cek issue bigaction kkp,Project Manager,2.0
+add radio button on chart jenis  metode page analisa lkpp,Development,4.0
+Develop new card jenis  metode pengadaan swakelola,Development,3.0
+Integrasi  Unregistered email on page forgotpassword,Development,4.0
+Daily Meeting BKKBN NTB,Development,3.0
+Membuat Question Tingakat setengah pengangguran berdasarkan provinsi,Development,8.0
+ Juni penyesuaian design create common sql rest api,Design,8.0
+meeting biglake checkpoint,Development,1.0
+Meeting Mitra DBT dg Metranet,Technical Support,8.0
+support  fu update data pb,Finance,4.0
+ Discuss Usecase BNPB,Development,3.0
+regsosek check user manual pemadanan dan interopt before send to bu annissa,Project Manager,1.0
+mentawai check figma mentawai,Project Manager,1.0
+mentawai create timeline delivery,Project Manager,8.0
+regsosek senin  juni   discuss action plan imbas gamas,Project Manager,2.0
+Explorasi Responsive Design Rebranding Website,Design,8.0
+add flagging timestamp,Development,4.0
+Kordinasi budget marketing untuk video marketing  pengisian monev ecatalog,"Sales, Marketing & Community",8.0
+Meeting Pertamina Patra Niaga Jateng,"Sales, Marketing & Community",3.0
+ BigVision   redesign BigVision showcase homepage,Development,7.0
+Testing web baru bigvision,Technical Support,3.0
+Testing VMS dan Facepad Kaltim,Technical Support,1.0
+Review Rekon Sementara BImasakti,Technical Support,2.0
+Backend create API insert SDK bimasakti,Development,5.0
+Breakdown Feature BigEnvelope ,Project Manager,5.0
+regsosek follow up integrasi data loker ke bigspider,Project Manager,1.0
+polda kaltim sabtu  juni   discuss persiapan kaltim,Project Manager,1.0
+corcomm rabu  juni   qa new keyword input,Project Manager,2.0
+polda kaltim create bastbaut,Project Manager,2.0
+Update API  add totalpengadaaan on jenis  metode pengadaan,Development,4.0
+Support fixing big envelope postgress,Development,3.0
+Backend create API async face profiling for innocent,Development,8.0
+Setup prettier for auto format,Development,4.0
+Submit Update juni pb mnet,Finance,1.0
+ Meeting BPJSTK Kanwil Jateng,"Sales, Marketing & Community",2.0
+ Meeting Delivery Pasuruan,"Sales, Marketing & Community",2.0
+ Workshop Ensuring List of Project LoP CFUE Q ,"Sales, Marketing & Community",8.0
+ Meeting Delivery Penyesuaian User Need Pemkab Mentawai,"Sales, Marketing & Community",4.0
+ Meeting Penyesuaian SPH  Delivery Sekda Karimun,"Sales, Marketing & Community",8.0
+ FGD  Pembahasan Use Case Banjir,Development,4.0
+Feature  Add error handling no data ketika dashboardnya muncul ngga ada,Development,8.0
+API Menampilkan hasil prediksi wilayah banjir wilayah DAS Bengawan Solo,Data,8.0
+regsosek create konten banner untuk pemandan  interopt,Project Manager,3.0
+other senin  juni  coursera modul  chapter ,Project Manager,2.0
+regsosek rabu  juni   stand up,Project Manager,1.0
+mentawai cek bigstore,Project Manager,1.0
+explore nifi ingest data from other database,Development,8.0
+ Juni Penyesuaian Design Home BigEnvelope,Design,2.0
+Meeting Polda Kaltim VMS,Technical Support,2.0
+Testing endtoend Facepad VMS Polda Kaltim,Technical Support,4.0
+meeting persiapan present balikpapan,Development,3.0
+Peseta workshop Putra,Development,4.0
+ Juni Slicing Improve Design Login,Development,2.0
+Discuss Roadmap BigEnvelope,Project Manager,5.0
+Meeting dengan Vendor Metranet,Technical Support,8.0
+Daily Rebranding Website,Technical Support,2.0
+Integrasi Top  Perusahaan,Development,8.0
+Link Catalog Service bisa klikable,Development,4.0
+lumajang discuss internal terkait perubahan titik lumajang dan additional bigsocial,Project Manager,1.0
+corcomm monitoring penambahan data corcomm,Project Manager,1.0
+lumajang draft bastbaut,Project Manager,1.0
+corcomm analisis vulnerability asessment,Project Manager,1.0
+regsosek jumat  juni   stand up,Project Manager,1.0
+Pembuatan Daftar Gambar Petunjuk Pelaksanaan dan Petunjuk Teknis data Analytics,Technical Support,8.0
+interaction component group management yang ada di dalam table,Development,6.0
+Meeting Billcomp Issue dgn tim CX Telkom,Technical Support,4.0
+API Peta dan lokasi aksi penanggulangan bencana,Data,8.0
+Pembuatan Dokumen Juklak Juknis,Technical Support,8.0
+explore repo bigenvelope,Development,8.0
+Check problem dan solusikan masalah data OpenLO tidak naik ke dashboard pertamina,Project Manager,7.0
+API Status Bekerja,Data,8.0
+polda kaltim check bigsocial polda kaltim,Project Manager,1.0
+Slicing Pagination feature on page topics,Development,8.0
+Update API  add details on pengadaan umum,Development,4.0
+Host  widget pada host tidak ikut berubah date range nya,Development,4.0
+Testing tiket bug yang terdapat pada waiting for review sprint ,Development,4.0
+Update data talent all chapter dex,Finance,2.0
+Revisi Ppt PT Yogya Grup,Technical Support,2.0
+Meeting Marketing Apilogy dgn tim CRM,Technical Support,4.0
+ Meeting Pemkab Semarang,"Sales, Marketing & Community",2.0
+ Meeting PHRI Jogja,Development,4.0
+Report On Demand KPU  Mei   Juni,Data,8.0
+Penyesuaian hasil respon chatbot ujawaban pointer,Development,6.0
+Take down Bar Checklist diatas hanya wording Add reference,Development,1.0
+polda kaltim senin  juni   brainstorm kesiapan polda kaltim,Project Manager,2.0
+regsosek list pain problem dan penjelasan tentang aplikasi pemadanan sent to crm,Project Manager,0.5
+regsosek check script video pemadanan,Project Manager,0.5
+mentawai request server CKAN,Project Manager,2.0
+regsosek senin  juni   discuss cara akses ssh tunneling with mang made,Project Manager,1.0
+Modelling Prediksi Jumlah Siswa  Penduduk Usia Sekolah di Jawa Barat,Data,8.0
+Slicing  Unregistered email on page forgotpassword,Development,4.0
+API Rekomendasi potensibahaya banjir tingkat Waspada,Data,1.0
+Modelling Jumlah Tingkat Sekolah,Data,8.0
+IDOR Delete Connection,Development,4.0
+Setup vitest testing library,Development,4.0
+polda kaltim ekalasi kebutuhan ke kaltim ke mas akas,Project Manager,0.5
+other update ppt sales aepm,Project Manager,1.0
+Integrasi HealthTooltip pada list host,Development,6.0
+belum terdapat message No result found ketika menggunakan search result sql editor,Development,5.0
+Workshop bigenvelope day,Development,5.0
+Develop new card jenis pengadaan swakelola,Development,2.0
+development crowd detection with new library golang bigvision cont,Development,7.0
+Metting daily sprint bigenvelope,Development,2.0
+Testing tiket waiting for review sprint ,Development,3.0
+Testing Custom React  Natural,Development,0.5
+Pengecekan problem data OPEN LO didashboard Pertamina tidak naik,Project Manager,8.0
+Update data treg  treg,Finance,1.0
+ Meeting People Movement dengan Polda Kepulauan Riau,"Sales, Marketing & Community",4.0
+        LegionUI  Sharing Instant Handon feature,Development,1.0
+Slicing Kualifikasi Pekerjaan,Development,8.0
+Scrap From kalibrr,Data,8.0
+Fixing bug  Respon Hallo tiba dibawah,Development,8.0
+regsosek bikin timeline restore after gamas pdn,Project Manager,2.0
+Modelling Kondisi Kelas Siswa,Data,12.0
+QA Pagination feature on page topics,Development,8.0
+interaksi modal ketika superadmin dan admin mengklik button add member,Development,6.0
+fixing connection postgres,Development,5.0
+Membuat Question jumlah perusahaan jasa K menurut bidang PJK tahun ,Development,8.0
+Membuat datamart PKAU Pelaksanaan,Data,5.0
+ Meeting Solusi PHRI Jogja,"Sales, Marketing & Community",2.0
+Ingest from Satu Data Bencana,Data,8.0
+Modelling Prediksi Sertifikasi Guru di Jawa Barat,Data,8.0
+Modelling Kondisi Lab Sekolah,Data,8.0
+Discuss Feature Bigenvelope BigBox,Project Manager,8.0
+API Status Pendidikan,Data,8.0
+Feature  Add error handling no data ketika dashboardnya muncul ngga ada data,Development,8.0
+Integrasi Status Keluarga,Development,8.0
+Integrasi Top  Industri,Development,8.0
+bpkp check bigspider bpkp as functionality,Project Manager,2.0
+regsosek kamis  juni   check readiness biglakehouse untuk demo kunjungan,Project Manager,1.0
+regsosek input jira redeploy pasca gamas,Project Manager,2.0
+polda kaltim recap activity jumat curhat kaltim,Project Manager,0.333333333
+Integrasi  Unverified email on page signup,Development,8.0
+Backend export data user free bigsocial,Development,5.0
+slcing modal add group,Development,2.0
+Meeting biglake and update sprint,Development,4.0
+ Juni Penyesuaian Design Dashboard BigEnvelope,Design,4.0
+Meeting pembahasan pengisian JIRA,Technical Support,2.0
+Diskusi Dataset Plat Kendaaran Listrik,Technical Support,1.0
+IDOR Delete API,Development,4.0
+FE  Update integrasi response message,Development,4.0
+Testing tiket waiting for review,Development,3.0
+Routing sidebar admin,Development,1.0
+Fixing error multi language on testimony section,Development,2.0
+corcomm senin  juni   discuss monitoring data mental dan ip block kbb with tim crawling,Project Manager,1.0
+corcomm senin  juni   analisis severity hasil va terbaru,Project Manager,1.0
+Create list daftar hadir Rapat data MHEWS,Technical Support,2.0
+Check SNA data availability,Development,2.0
+ Meeting pemkot solo,"Sales, Marketing & Community",2.0
+ Discuss bahan BGN,Development,4.0
+Creating report exploration,Development,0.5
+API Menampilkan batas DAS Bengawan Solo,Data,8.0
+Backend fixing bug service blink eye bimasakti bigvision,Development,4.0
+Backend setup deployment monitoringbigvisionid,Development,5.0
+lumajang create timeline delivery lumajang,Project Manager,2.0
+regsosek cek dashboard data desil regsosek,Project Manager,1.0
+regsosek update status  bikin ceklis ke grup whats app,Project Manager,0.5
+Create API jenis pengadaan swakelola,Development,1.0
+Peserta workshop dhyla,Design,4.0
+ Workshop Digitalisasi Pemkot Balikpapan,"Sales, Marketing & Community",8.0
+ Contact Us   Slicing Design,Development,6.0
+Ingest Hasil Survey Kerentanan dan Kapasitas Tsunami Skala Desa Program IDRIP,Data,8.0
+Ingest Raw Data Kajian Risiko Bencana Tsunami Skala Desa Program IDRIP,Data,8.0
+Akun Pemohon Draft fitur Hapus tidak berfungsi saat di klik tidak ada aksi apapun,Development,1.0
+Create Materi Opportunity Kalimantan,Technical Support,4.0
+Updating dokumen ISO,Technical Support,2.0
+Testing web dashboard baru BigVision,Technical Support,1.0
+meeting deployment executive monitoring bigvision,Development,2.0
+Cuti cuti bersama idul adha,Development,8.0
+QA Custom Dashboard Bansos,Development,8.0
+Spark Initiate Failed on spark,Data,8.0
+regsosek check jira input task dashboard builder,Project Manager,1.0
+regsosek rabu  juni   discuss persiapan untuk kunjungan ke itdri,Project Manager,2.0
+pasuruan cek readiness bigmarket  bigview,Project Manager,1.0
+regsosek ssl wildcard to tim sigma,Project Manager,2.0
+meeting keperluan rebranding Pencarian vendor,"Sales, Marketing & Community",10.0
+mentawai input jira task mentawai,Project Manager,1.0
+Take Video Content VMS,Technical Support,2.0
+Meeting update vms kalimantan timur,Technical Support,2.0
+Create Dokumen UAT VMS Kalimantan,Technical Support,3.0
+Create email admin Kaltim for showcase,Technical Support,0.5
+Mencari dataset Plat Elektrik sebanyak ,Technical Support,8.0
+kemenag jira input timespent all talent,Project Manager,1.0
+polda kaltim follow up logo dan email polda kaltim dan server staging,Project Manager,0.25
+Handle not IP registered,Development,2.0
+regsosek follow up terkait api bigbuilder ngga bisa consume dari bigenvelope,Project Manager,2.0
+mentawai rabu  juni  discuss brainstorm figma mentawai,Project Manager,1.0
+Planning Sprint  Week  Putra,Development,2.0
+corcomm ganti pointing be       ,Project Manager,8.0
+corcomm input jira task sna exploration  security enhancement,Project Manager,1.0
+Update script big builder stg,Development,2.0
+ Suppot media publikasi  suppoer DMM pembuatan cotent AI,"Sales, Marketing & Community",10.0
+pasuruan rabu  juni   discuss solving issue febe bigmarket to kang randyrizal,Project Manager,2.0
+Piloting Install Agent SRE spbu coco,Data,3.0
+API Status Keluarga,Data,8.0
+corcomm monitoring penambahan data image to text,Project Manager,2.0
+Modelling Sumber Air Bersih,Data,8.0
+lumajang kamis  juni   check point sebelum present ke lumajang,Project Manager,1.0
+Backend fixing SDK bimasakti to minimal delay,Development,5.0
+Generate data DKI,Data,2.0
+Review ads  editing ads,"Sales, Marketing & Community",8.0
+Pembuatan MOM Diskusi Data Goverment dan Sampel Data Pospay Untuk Pembuatan Usecase CLV  Churn Posindo,Technical Support,8.0
+regsosek kirim user manual pemadanan  interopt ke bu annissa,Project Manager,0.5
+Create API Public,Development,3.0
+Pertanggungan IF Juni ,Technical Support,8.0
+Collect ID LOP,Technical Support,4.0
+ Meeting Kebutuhan Dokumentasi Polda Riau Daratan,"Sales, Marketing & Community",4.0
+Loading Generating Text Chatbot,Development,6.0
+interaction ketika kolom maps di hover editdelete  list author untuk superadmin,Development,8.0
+Meeting Persiapan renewal ISO untuk Selasa  Juli ,Technical Support,2.0
+polda kaltim bikin grup vms dan bigsocial with user am dan tim,Project Manager,1.0
+create standard benchmarking performance bigenvelope,Development,3.0
+Get API User,Development,3.0
+Paparan BigView Tracking Tourism Pemkab Lumajang,Technical Support,2.0
+ Meeting RDR TR ,"Sales, Marketing & Community",6.0
+ Brief PoC LPS,Development,3.0
+ Meeting BPKP Pak Sigit,Development,3.0
+regsosek senin  juli   cek all platform pasca gamas,Project Manager,6.0
+Modelling Sumber Listrik,Data,8.0
+ Submit solusi Nasmoco,"Sales, Marketing & Community",4.0
+pasuruan draft bastbaut,Project Manager,1.0
+QA Search by ID feature on page topics,Development,8.0
+Slicing Search by ID feature on page topics,Development,8.0
+membuat interaksi modal ketika superadmin mengklik dropdown button more dan rename,Development,4.0
+Hide default football player when no data,Development,1.5
+Develop new card metode pengadaaan umum,Development,2.0
+Endpoint Riwayat Pangkat,Development,4.0
+Update Image testimony person,Development,1.0
+other list dod image to text for putri,Project Manager,1.0
+regsosek rabu  juni   standup,Project Manager,1.0
+other senin  juni  threat Modelling Tools  fase Pertama dari Tribe INS,Project Manager,1.0
+Create API metode pengadaan umum,Development,1.0
+Meeting Juskeb Jamdatun,Technical Support,8.0
+slicing modal addedit new map,Development,8.0
+kominfo pdsi fu terkait ppt yang di share latest untuk issue pending matters,Project Manager,1.0
